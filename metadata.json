@@ -1,0 +1,6 @@
+{
+  "name": "CHIRANIYA",
+  "description": "Premium Architectural Walkthroughs and Spatial Design",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
