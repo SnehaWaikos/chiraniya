@@ -4,9 +4,8 @@ import path from 'path';
 import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
-     return {
-       base: '/chiraniya/',
-       plugins: [react(), tailwindcss()],
+  return {
+    plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
         '@': path.resolve(__dirname, '.'),
